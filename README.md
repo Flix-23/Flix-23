@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felixon</h1>
-<h3 align="center">I'm a passionate developer</h3>
+<h3 align="center">I'm a passionate and results-oriented developer</h3>
 
 - 📫 How to reach me **felixonmichael23@gmail.com**
 
